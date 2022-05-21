@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 authors = ["William Brandon"]
+repository = "https://github.com/exists-forall/id_graph_sccs"
 description = "Find the strongly-connected components of a graph with nodes labeled by integer ids"
 keywords = ["graph", "strongly-connected", "SCC", "toposort", "Tarjan's"]
 categories = ["algorithms", "data-structures"]
