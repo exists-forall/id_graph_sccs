@@ -2,7 +2,7 @@
 
 **Download:** [crates.io/crates/id_graph_sccs](https://crates.io/crates/id_graph_sccs)
 
-**Docs:** [docs.rs/id_graph_sccs](https://crates.io/crates/id_graph_sccs)
+**Docs:** [docs.rs/id_graph_sccs](https://docs.rs/id_graph_sccs)
 
 ---
 
